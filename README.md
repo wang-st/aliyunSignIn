@@ -62,11 +62,10 @@ ql repo https://github.com/wang-st/aliyunSignIn.git "autoSignin" "" "qlApi"
 ### 申明
 
 - 本项目仅做学习交流, 禁止用于各种非法途径
-- 项目中的所有内容均源于互联网, 仅限于小范围内学习参考, 如有侵权请第一时间联系 [本项目作者](https://github.com/mrabit) 进行删除
+- 项目中的所有内容均源于互联网, 仅限于小范围内学习参考, 如有侵权请第一时间联系 [本项目作者](https://github.com/wang-st) 进行删除
 
 ### 鸣谢
 
 #### 特别感谢以下作者及所开发的程序，本项目参考过以下几位开发者代码及思想。
 
-- @Anonym-w: [Anonym-w/autoSigninAliyun](https://github.com/Anonym-w/autoSigninAliyun)
-- @ImYrS: [ImYrS/aliyun-auto-signin](https://github.com/ImYrS/aliyun-auto-signin)
+- @mrabit: [aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck)
